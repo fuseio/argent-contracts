@@ -38,7 +38,10 @@
     "securityPeriod": 240,
     "securityWindow": 240,
     "feeRatio": 15,
-    "defaultLimit": "1000000000000000000"
+    "defaultLimit": "1000000000000000000",
+    "networkFeePercentage": "10000000000000000",
+    "networkAdmin": "0xD4C27c52763eae8D1Fbb0da59ee1B9E937a5cB1F",
+    "businessRole": "0x0000000000000000000000000000000000000000000000000000000000000008"
   },
   "Kyber": {
     "deployOwn": true,
@@ -93,7 +96,8 @@
     "UniswapManager": "0x88F552609e96a7413f76E5992065043E49c2d8D3",
     "TransferManager": "0x8527a2d3d5aC0411933d663b4dcE275a5b7f39D8",
     "CommunityManager": "0x42616C787e3D75aC29b9dCAB35131b585Eaa9837",
-    "WalletOwnershipManager": "0x7C38a5E6c0822623392847f6B827E8ADd75130ae"
+    "WalletOwnershipManager": "0xf3D293Ea315819eBcB48F624A51fdd9Ff9f6D1E8",
+    "CommunityTransferManager": "0x117ca9074F75706B86B2090741FA28f61756FdCB"
   },
-  "gitCommit": "03dd8cab15c4b19fc0fc335dd3a9b47cc1ed795c"
+  "gitCommit": "1aff9e22318e48192b3381b7703da3205362416c"
 }

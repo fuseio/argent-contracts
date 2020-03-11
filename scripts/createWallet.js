@@ -56,7 +56,8 @@ async function main() {
         config.modules.TransferManager,
         config.modules.TokenExchanger,
         config.modules.CommunityManager,
-        config.modules.WalletOwnershipManager
+        config.modules.WalletOwnershipManager,
+        config.modules.CommunityTransferManager
         // config.modules.MakerV2Manager
     ];
     try {

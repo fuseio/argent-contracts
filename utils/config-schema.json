@@ -297,6 +297,15 @@
         },
         "feeRatio": {
           "type": "integer"
+        },
+        "networkFeePercentage": {
+          "type": "string"
+        },
+        "networkAdmin": {
+          "type": "string"
+        },
+        "businessRole": {
+          "type": "string"
         }
       },
       "required": [

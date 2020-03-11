@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "createdAt": 1575538348,
+  "version": "1.4.4",
+  "createdAt": 1583932815,
   "modules": [
     {
       "address": "0xb2c9B85a41830655C0f21CAe43F552B6D76A709E",
@@ -47,9 +47,13 @@
       "name": "CommunityManager"
     },
     {
-      "address": "0x7C38a5E6c0822623392847f6B827E8ADd75130ae",
+      "address": "0xD0DAf36BFa1eC0eA2Bd1eC54FFc4f77762738cBC",
       "name": "WalletOwnershipManager"
+    },
+    {
+      "address": "0x117ca9074F75706B86B2090741FA28f61756FdCB",
+      "name": "CommunityTransferManager"
     }
   ],
-  "fingerprint": "0x20b57452"
+  "fingerprint": "0x5ecad2e4"
 }
